@@ -2,6 +2,8 @@
 
 A template repository provides the starting folder structure, placeholder files, and instructions that every student notebook will be built from. Creating it once saves setup time for each student.
 
+← **[Back to Instructor Setup](README.md)**
+
 ---
 
 ## 2.1 Create the Repository

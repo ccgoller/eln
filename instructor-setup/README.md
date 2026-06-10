@@ -2,6 +2,8 @@
 
 This guide walks you through setting up the GitHub-based ELN system for your lab or course, from creating the organization to reviewing student notebooks at the end of the term.
 
+→ **[Back to main README](../README.md)**
+
 ---
 
 ## Table of Contents
@@ -36,4 +38,4 @@ Before you begin, you will need:
 
 ## Need Help?
 
-Open an Issue in this repository or consult [GitHub's documentation](https://docs.github.com).
+Open an Issue in this repository, check the **[FAQ](../FAQ.md)**, or consult [GitHub's documentation](https://docs.github.com).
