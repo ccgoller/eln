@@ -7,7 +7,7 @@ Welcome! This guide walks you through everything you need to use GitHub as your 
 ## Table of Contents
 
 1. [Getting Started with GitHub](01-getting-started.md) — create an account, join the organization, and clone your notebook repository
-2. [Structuring Your Lab Notebook](02-notebook-structure.md) — folder layout, naming conventions, and how to organize your work
+2. [Structuring Your Lab Notebook](02-notebook-structure.md) — suggestions for folder layout, naming conventions, and how to organize your work
 3. [Recording Experiments](03-recording-experiments.md) — how to write entries, commit changes, and add data files
 4. [Best Practices](04-best-practices.md) — tips for keeping a thorough, reproducible record
 
@@ -29,4 +29,4 @@ Welcome! This guide walks you through everything you need to use GitHub as your 
 
 - Consult the relevant section of this guide.
 - Open an Issue in your notebook repository and tag your instructor.
-- Attend lab office hours.
+- Contact your instructor.
