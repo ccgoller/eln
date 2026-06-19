@@ -46,3 +46,6 @@ Ready-to-use and adapt Markdown templates for common notebook entries:
 ## About this Project
 This project was part of the Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education [OCTOPUS](https://qubeshub.org/community/groups/octopus) funded by the ORCA, RIOS, and BioQUEST projects. 
 Licensed under CC Attribution-ShareAlike 4.0 International according to these [terms] (https://qubeshub.org/publications/5707/license/1).
+
+### Cite
+Carlos C. Goller (2026). Promoting Open Science & Open Education through Accessible and Electronic Lab Notebooks. OCTOPUS - Open Science and Open Pedagogy Project, (Version 2.0). QUBES Educational Resources. doi:10.25334/1FZC-5J97
