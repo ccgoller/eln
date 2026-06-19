@@ -1,12 +1,12 @@
-# Electronic Lab Notebook (ELN) on GitHub
+# Using GitHub as an Electronic Lab Notebook (ELN) for Undergraduate Courses
 
-A complete guide for using GitHub as an Electronic Lab Notebook — including onboarding tutorials for students and a step-by-step setup guide for instructors.
+A user-friendly guide for using GitHub as an Electronic Lab Notebook — including onboarding tutorials for students and a step-by-step setup guide for instructors. Written by users and learners. 
 
 ---
 
 ## What Is This Repository?
 
-This repository provides everything needed to run a GitHub-based Electronic Lab Notebook (ELN) system in a research or teaching lab. Students keep their experimental records as Markdown files in GitHub repositories, gaining version control, transparency, and collaboration built in.
+This repository provides everything needed to run a GitHub-based Electronic Lab Notebook (ELN) system in a research or teaching lab. Students keep their experimental records as Markdown files in GitHub repositories, gaining built-in version control, transparency, and collaboration.
 
 ---
 
@@ -36,13 +36,13 @@ Start here if you are setting up the ELN system for your lab or course.
 
 ## 📄 Templates
 
-Ready-to-use Markdown templates for common notebook entries:
+Ready-to-use and adapt Markdown templates for common notebook entries:
 
 - [Experiment Entry](templates/experiment-entry.md)
 - [Weekly Summary](templates/weekly-summary.md)
 
 ---
 
-## License
-
-See [LICENSE](LICENSE).
+## About this Project
+This project was part of the Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education [OCTOPUS](https://qubeshub.org/community/groups/octopus) funded by the ORCA, RIOS, and BioQUEST projects. 
+Licensed under CC Attribution-ShareAlike 4.0 International according to these terms.
