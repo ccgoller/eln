@@ -45,4 +45,4 @@ Ready-to-use and adapt Markdown templates for common notebook entries:
 
 ## About this Project
 This project was part of the Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education [OCTOPUS](https://qubeshub.org/community/groups/octopus) funded by the ORCA, RIOS, and BioQUEST projects. 
-Licensed under CC Attribution-ShareAlike 4.0 International according to these terms.
+Licensed under CC Attribution-ShareAlike 4.0 International according to these [terms] (https://qubeshub.org/publications/5707/license/1).
