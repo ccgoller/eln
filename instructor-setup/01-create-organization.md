@@ -1,6 +1,6 @@
 # Step 1 — Create a GitHub Organization
 
-A GitHub Organization is the shared workspace that houses all student notebook repositories. This keeps everything in one place and lets you manage access in bulk.
+A **GitHub Organization** is the shared workspace that houses all student notebook repositories. This keeps everything in one place and lets you manage access in bulk.
 
 ← **[Back to Instructor Setup](README.md)**
 
@@ -12,7 +12,7 @@ A GitHub Organization is the shared workspace that houses all student notebook r
 2. Click the **+** icon in the top-right corner and select **New organization**.
 3. Choose the **Free** plan (sufficient for most academic uses; see note below on GitHub Education).
 4. Fill in the details:
-   - **Organization name:** choose something short and identifiable, e.g., `goller-lab` or `chem101-fall2025`.
+   - **Organization name:** choose something short and identifiable, e.g., `goller-lab` or `mb360-fall2026`.
    - **Contact email:** your institutional email address.
    - **Belongs to:** select **My personal account** unless your institution has an enterprise account.
 5. Click **Create organization**.
@@ -36,7 +36,7 @@ After creating the organization, adjust these settings (**Settings** tab of the 
 
 ## 1.3 Add Yourself as an Owner
 
-You are automatically an Owner after creating the organization. If you want a co-instructor or teaching assistant to also have admin access:
+You are automatically an Owner when you create the organization. If you want a co-instructor or teaching assistant to also have admin access:
 
 1. Go to **People** on the organization page.
 2. Click **Invite member**.
@@ -51,7 +51,7 @@ Teams let you group students by lab section, project, or cohort and manage permi
 
 1. Go to **Teams** on the organization page.
 2. Click **New team**.
-3. Name the team (e.g., `section-a`, `rotation-fall2025`).
+3. Name the team (e.g., `Team-Fungi`, `UGresearch-fall2026`).
 4. Add members after you have invited them in Step 3.
 
 ---
