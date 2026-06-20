@@ -1,6 +1,6 @@
 # Electronic Lab Notebooks (ELNs) in the Lab
 
-> A practical, accessible guide for using GitHub as an Electronic Lab Notebook (ELN) in undergraduate courses and research labs.
+> A practical, accessible guide for using GitHub as an Electronic Lab Notebook (ELN) in undergraduate courses and research labs created by instructors, teaching assistants, and students.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Markdown](https://img.shields.io/badge/docs-Markdown-lightgrey.svg)](#)
@@ -32,6 +32,8 @@
 
 ## Student Pathway
 
+This guide provides support for users who start without a GitHub account. The steps will help you create an account, join an organization, clone a notebook, and begin editing entries. 
+
 Begin with: **[Student Guidelines](student-guidelines/README.md)**
 
 | # | Guide | Description |
@@ -42,6 +44,8 @@ Begin with: **[Student Guidelines](student-guidelines/README.md)**
 | 4 | [Best Practices](student-guidelines/04-best-practices.md) | Tips for keeping a thorough, reproducible record |
 
 ## Instructor Pathway
+
+The guide offers instructors support for setting up a course or lab repository, an organization, and template lab notebooks.
 
 Begin with: **[Instructor Setup Guide](instructor-setup/README.md)**
 
@@ -54,6 +58,8 @@ Begin with: **[Instructor Setup Guide](instructor-setup/README.md)**
 
 ## Templates
 
+We share some of the templates we have used for courses at North Carolina State University. We continue to edit and improve the templates with each course offering and helpful user feedback. We encourage you to share suggestions and templates. 
+
 | Template | Purpose |
 |----------|---------|
 | [Experiment Entry](templates/experiment-entry.md) | Record a single lab session or experiment |
@@ -61,7 +67,7 @@ Begin with: **[Instructor Setup Guide](instructor-setup/README.md)**
 
 ---
 
-## FAQ
+## Frequently Asked Questions (FAQs)
 
 Common questions and troubleshooting tips are collected in the **[FAQ](FAQ.md)**.
 
@@ -79,7 +85,7 @@ Read the [FAQ](FAQ.md).
 
 ## Accessibility Commitment
 
-This repository aims to follow accessible documentation practices:
+We strive to create a repository that follows accessible documentation practices:
 
 - Use clear heading hierarchy (one `#` title, then `##`, then `###`).
 - Use descriptive link text (avoid "click here").
@@ -88,7 +94,9 @@ This repository aims to follow accessible documentation practices:
 - Provide text alternatives for visual-only instructions.
 - Prefer plain language and short paragraphs.
 
-For details, see [ACCESSIBILITY.md](ACCESSIBILITY.md).
+However, we are still learning! Please let us know how we can improve the resources on this site.
+
+For additional details, refer to [ACCESSIBILITY.md](ACCESSIBILITY.md).
 
 ---
 
@@ -108,10 +116,10 @@ We have received support from the Open Research Community Accelerator (ORCA) to 
 
 ---
 
-## License and citation
+## License and Citation
 
 - Repository license: [MIT License](LICENSE)
 
-Carlos C. Goller (2026). Promoting Open Science & Open Education through Accessible and Electronic Lab Notebooks. OCTOPUS - Open Science and Open Pedagogy Project, (Version 2.0). QUBES Educational Resources. doi:10.25334/1FZC-5J97
+> Carlos C. Goller (2026). Promoting Open Science & Open Education through Accessible and Electronic Lab Notebooks. OCTOPUS - Open Science and Open Pedagogy Project (Version 2.0). QUBES Educational Resources. doi:10.25334/1FZC-5J97
 
 - Citation and project context should remain in this repository and can be expanded in a dedicated `CITATION.md` if desired.
