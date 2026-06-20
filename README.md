@@ -1,16 +1,16 @@
-# GitHub ELN: Onboarding and Tutorials for Electronic Lab Notebooks
+# Electronic Lab Notebooks (ELNs) in the Lab
 
 A practical, accessible guide for using GitHub as an Electronic Lab Notebook (ELN) in undergraduate courses and research labs.
 
 ---
 
-## Who this repository is for
+## Who this repository is for...
 
-- **Students** who need to document experiments clearly and consistently.
-- **Instructors** who want a repeatable workflow for setup, feedback, and grading.
+- **Students** who need to practice documenting experiments clearly and consistently.
+- **Instructors** who want a repeatable workflow for setup and feedback.
 - **Teaching assistants** supporting notebook quality and reproducibility.
 
-## What you will learn
+## What you will learn...
 
 - How to organize an ELN using GitHub repositories and Markdown.
 - How to record experiments in a way that is reproducible and reviewable.
@@ -18,15 +18,15 @@ A practical, accessible guide for using GitHub as an Electronic Lab Notebook (EL
 
 ---
 
-## Start here (5-minute path)
+## Start here! (5-minute path)
 
-1. Read the [Student Guidelines](student-guidelines/README.md) or [Instructor Setup Guide](instructor-setup/README.md).
-2. Copy a template from [`templates/`](templates/).
-3. Create your first notebook entry and commit it.
+1. **Read** the [Student Guidelines](student-guidelines/README.md) or [Instructor Setup Guide](instructor-setup/README.md).
+2. **Copy** a template from [`templates/`](templates/).
+3. **Create** your first notebook entry and commit it.
 
 ---
 
-## Student pathway
+## Student Pathway
 
 Begin with: **[Student Guidelines](student-guidelines/README.md)**
 
@@ -35,7 +35,7 @@ Begin with: **[Student Guidelines](student-guidelines/README.md)**
 3. [Recording Experiments](student-guidelines/03-recording-experiments.md)  
 4. [Best Practices](student-guidelines/04-best-practices.md)
 
-## Instructor pathway
+## Instructor Pathway
 
 Begin with: **[Instructor Setup Guide](instructor-setup/README.md)**
 
@@ -51,7 +51,7 @@ Begin with: **[Instructor Setup Guide](instructor-setup/README.md)**
 
 ---
 
-## Accessibility commitment
+## Accessibility Commitment
 
 This repository aims to follow accessible documentation practices:
 
@@ -74,9 +74,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
 
 ---
 
-## About this project
+## About this Project
 
-This project was part of the Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education (OCTOPUS), funded by the NSF under grant DUE #2235723.
+This project was part of the Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education (OCTOPUS).
 
 ---
 
