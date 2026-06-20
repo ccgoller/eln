@@ -19,7 +19,7 @@ A **GitHub Organization** is the shared workspace that houses all student notebo
 
 > **Tip — GitHub Education:** If you are using the organization for a course, apply for a [GitHub Education](https://education.github.com/teachers) discount. Verified educators receive free access to GitHub Team features (private repositories, etc.) for their organization.
 
-<img width="2934" height="1600" alt="GitHub + button and 'Create a new organization' menu" src="/instructor-setup/GitHubOrganization.pg" />
+<img width="2934" height="1600" alt="GitHub + button and 'Create a new organization' menu" src="instructor-setup/GitHubOrganization.png" />
 
 ---
 
