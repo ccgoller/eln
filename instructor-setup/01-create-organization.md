@@ -1,6 +1,6 @@
-# Step 1 — Create a GitHub Organizationn (optional)
+# Step 1 — Create a GitHub Organization (optional)
 
-A **GitHub Organization** is the shared workspace that houses all student notebook repositories. This keeps everything in one place and lets you manage access in bulk. GitHub offers limited free organization features. Your institution may provide support for GitHub Organization creation using your .edu account. Creation of a GitHub Organization is optional.
+A **GitHub Organization** is the shared workspace that houses all student notebook repositories. This keeps everything in one place and lets you manage access in bulk. GitHub offers limited free organization features. Your institution may support the creation of a GitHub Organization using your .edu account. Creation of a GitHub Organization is optional.
 
 ← **[Back to Instructor Setup](README.md)**
 
@@ -19,7 +19,7 @@ A **GitHub Organization** is the shared workspace that houses all student notebo
 
 > **Tip — GitHub Education:** If you are using the organization for a course, apply for a [GitHub Education](https://education.github.com/teachers) discount. Verified educators receive free access to GitHub Team features (private repositories, etc.) for their organization.
 
-<img width="2934" height="1600" alt="GitHub + button and 'Create organization' menu" src="https://github.com/user-attachments/assets/4963d5c4-a388-4bdd-a136-99f4a4671c06" />
+<img width="2934" height="1600" alt="GitHub + button and 'Create a new organization' menu" src="/instructor-setup/GitHubOrganization.pg" />
 
 ---
 
