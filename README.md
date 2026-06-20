@@ -4,14 +4,15 @@ An accessible, modern onboarding hub for using GitHub as an Electronic Lab Noteb
 
 ## NC State visual theme (solid colors)
 
-This homepage uses a simplified NC State-inspired palette with explicit labels for accessibility:
+This homepage uses a simplified NC State-inspired palette for section emphasis and quick visual consistency.
+Color names and hex values are included as text so meaning does not depend on visual color cues alone.
 
 | Color | Hex | Primary use |
 |---|---|---|
-| 🟥 NC State Red | `#CC0000` | Emphasis and high-priority calls to action |
-| ⬛ Black | `#000000` | Primary body text |
-| ⬜ White | `#FFFFFF` | Background and contrast support |
-| ◻️ Cool Gray | `#767676` | Secondary UI/document accents |
+| NC State Red | `#CC0000` | Emphasis and high-priority calls to action |
+| Black | `#000000` | Primary body text |
+| White | `#FFFFFF` | Background and contrast support |
+| Cool Gray | `#767676` | Secondary UI/document accents |
 
 ## Start here
 
