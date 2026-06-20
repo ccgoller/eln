@@ -102,11 +102,16 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
 
 ## About this Project
 
-This project was part of the Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education (OCTOPUS).
+This project was part of the OCTOPUS Project: Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education.
+
+We have received support from the Open Research Community Accelerator (ORCA) to support the adoption of open science through promoting collaborations effecting systems-level change. The project is a collaborative effort involving the RIOS Institute for a racially-just, inclusive, and open STEM education and the BioQUEST Curriculum Consortium, an education non-profit focused on supporting undergraduate STEM faculty as they engage in education reform.
 
 ---
 
 ## License and citation
 
 - Repository license: [MIT License](LICENSE)
+
+Carlos C. Goller (2026). Promoting Open Science & Open Education through Accessible and Electronic Lab Notebooks. OCTOPUS - Open Science and Open Pedagogy Project, (Version 2.0). QUBES Educational Resources. doi:10.25334/1FZC-5J97
+
 - Citation and project context should remain in this repository and can be expanded in a dedicated `CITATION.md` if desired.
