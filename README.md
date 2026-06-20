@@ -1,51 +1,86 @@
-# Using GitHub as an Electronic Lab Notebook (ELN) for Undergraduate Courses
+# GitHub ELN: Onboarding and Tutorials for Electronic Lab Notebooks
 
-A user-friendly guide for using GitHub as an Electronic Lab Notebook — including onboarding tutorials for students and a step-by-step setup guide for instructors. Written by users and learners. 
-
----
-
-## What Is This Repository?
-
-This repository provides everything needed to run a GitHub-based Electronic Lab Notebook (ELN) system in a research or teaching lab. Students keep their experimental records as Markdown files in GitHub repositories, gaining built-in version control, transparency, and collaboration.
+A practical, accessible guide for using GitHub as an Electronic Lab Notebook (ELN) in undergraduate courses and research labs.
 
 ---
 
-## 📚 For Students
+## Who this repository is for
 
-Start here if you are a student joining the lab or course.
+- **Students** who need to document experiments clearly and consistently.
+- **Instructors** who want a repeatable workflow for setup, feedback, and grading.
+- **Teaching assistants** supporting notebook quality and reproducibility.
 
-- **[Student Guidelines](student-guidelines/README.md)** — overview and table of contents
-  1. [Getting Started with GitHub](student-guidelines/01-getting-started.md)
-  2. [Structuring Your Lab Notebook](student-guidelines/02-notebook-structure.md)
-  3. [Recording Experiments](student-guidelines/03-recording-experiments.md)
-  4. [Best Practices](student-guidelines/04-best-practices.md)
+## What you will learn
 
----
-
-## 🛠️ For Instructors
-
-Start here if you are setting up the ELN system for your lab or course.
-
-- **[Instructor Setup Guide](instructor-setup/README.md)** — overview and table of contents
-  1. [Create a GitHub Organization](instructor-setup/01-create-organization.md)
-  2. [Create a Template Repository](instructor-setup/02-template-repository.md)
-  3. [Invite Students](instructor-setup/03-invite-students.md)
-  4. [Review and Grade Notebooks](instructor-setup/04-review-notebooks.md)
+- How to organize an ELN using GitHub repositories and Markdown.
+- How to record experiments in a way that is reproducible and reviewable.
+- How instructors can provision, monitor, and assess student notebooks.
 
 ---
 
-## 📄 Templates
+## Start here (5-minute path)
 
-Ready-to-use and adapt Markdown templates for common notebook entries:
+1. Read the [Student Guidelines](student-guidelines/README.md) or [Instructor Setup Guide](instructor-setup/README.md).
+2. Copy a template from [`templates/`](templates/).
+3. Create your first notebook entry and commit it.
+
+---
+
+## Student pathway
+
+Begin with: **[Student Guidelines](student-guidelines/README.md)**
+
+1. [Getting Started with GitHub](student-guidelines/01-getting-started.md)  
+2. [Structuring Your Lab Notebook](student-guidelines/02-notebook-structure.md)  
+3. [Recording Experiments](student-guidelines/03-recording-experiments.md)  
+4. [Best Practices](student-guidelines/04-best-practices.md)
+
+## Instructor pathway
+
+Begin with: **[Instructor Setup Guide](instructor-setup/README.md)**
+
+1. [Create a GitHub Organization](instructor-setup/01-create-organization.md)  
+2. [Create a Template Repository](instructor-setup/02-template-repository.md)  
+3. [Invite Students](instructor-setup/03-invite-students.md)  
+4. [Review and Grade Notebooks](instructor-setup/04-review-notebooks.md)
+
+## Templates
 
 - [Experiment Entry](templates/experiment-entry.md)
 - [Weekly Summary](templates/weekly-summary.md)
 
 ---
 
-## About this Project
-This project was part of the Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education [OCTOPUS](https://qubeshub.org/community/groups/octopus) funded by the ORCA, RIOS, and BioQUEST projects. 
-Licensed under CC Attribution-ShareAlike 4.0 International according to these [terms] (https://qubeshub.org/publications/5707/license/1).
+## Accessibility commitment
 
-### Cite
-Carlos C. Goller (2026). Promoting Open Science & Open Education through Accessible and Electronic Lab Notebooks. OCTOPUS - Open Science and Open Pedagogy Project, (Version 2.0). QUBES Educational Resources. doi:10.25334/1FZC-5J97
+This repository aims to follow accessible documentation practices:
+
+- Use clear heading hierarchy (one `#` title, then `##`, then `###`).
+- Use descriptive link text (avoid “click here”).
+- Ensure all images include meaningful alt text.
+- Do not rely on color alone to communicate meaning.
+- Provide text alternatives for visual-only instructions.
+- Prefer plain language and short paragraphs.
+
+For details, see [ACCESSIBILITY.md](ACCESSIBILITY.md).
+
+---
+
+## Contributing
+
+Contributions are welcome, especially improvements to clarity, pedagogy, and accessibility.
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
+
+---
+
+## About this project
+
+This project was part of the Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education (OCTOPUS), funded by the NSF under grant DUE #2235723.
+
+---
+
+## License and citation
+
+- Repository license: [MIT License](LICENSE)
+- Citation and project context should remain in this repository and can be expanded in a dedicated `CITATION.md` if desired.
