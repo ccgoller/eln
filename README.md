@@ -1,6 +1,6 @@
-# 🔬 Electronic Lab Notebook (ELN) on GitHub
+# GitHub ELN: Onboarding and Tutorials for Electronic Lab Notebooks
 
-> A complete guide for using GitHub as an Electronic Lab Notebook — onboarding tutorials for students and a step-by-step setup guide for instructors.
+> A practical, accessible guide for using GitHub as an Electronic Lab Notebook (ELN) in undergraduate courses and research labs.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Markdown](https://img.shields.io/badge/docs-Markdown-lightgrey.svg)](#)
@@ -8,28 +8,31 @@
 
 ---
 
-## Contents
+## Who this repository is for
 
-- [What Is This Repository?](#what-is-this-repository)
-- [📚 For Students](#-for-students)
-- [🛠️ For Instructors](#️-for-instructors)
-- [📄 Templates](#-templates)
-- [❓ FAQ](#-faq)
-- [License](#license)
+- **Students** who need to document experiments clearly and consistently.
+- **Instructors** who want a repeatable workflow for setup, feedback, and grading.
+- **Teaching assistants** supporting notebook quality and reproducibility.
 
----
+## What you will learn
 
-## What Is This Repository?
-
-This repository provides everything needed to run a **GitHub-based Electronic Lab Notebook (ELN)** system in a research or teaching lab.
-
-Students keep their experimental records as Markdown files in GitHub repositories, gaining **version control**, **transparency**, and **collaboration** built in — with no specialized software required.
+- How to organize an ELN using GitHub repositories and Markdown.
+- How to record experiments in a way that is reproducible and reviewable.
+- How instructors can provision, monitor, and assess student notebooks.
 
 ---
 
-## 📚 For Students
+## Start here (5-minute path)
 
-> **Start here** if you are a student joining the lab or course.
+1. Read the [Student Guidelines](student-guidelines/README.md) or [Instructor Setup Guide](instructor-setup/README.md).
+2. Copy a template from [`templates/`](templates/).
+3. Create your first notebook entry and commit it.
+
+---
+
+## Student pathway
+
+Begin with: **[Student Guidelines](student-guidelines/README.md)**
 
 | # | Guide | Description |
 |---|-------|-------------|
@@ -38,13 +41,9 @@ Students keep their experimental records as Markdown files in GitHub repositorie
 | 3 | [Recording Experiments](student-guidelines/03-recording-experiments.md) | How to write entries, commit changes, and add data files |
 | 4 | [Best Practices](student-guidelines/04-best-practices.md) | Tips for keeping a thorough, reproducible record |
 
-→ **[Open the full Student Guidelines](student-guidelines/README.md)**
+## Instructor pathway
 
----
-
-## 🛠️ For Instructors
-
-> **Start here** if you are setting up the ELN system for your lab or course.
+Begin with: **[Instructor Setup Guide](instructor-setup/README.md)**
 
 | # | Guide | Description |
 |---|-------|-------------|
@@ -53,13 +52,7 @@ Students keep their experimental records as Markdown files in GitHub repositorie
 | 3 | [Invite Students](instructor-setup/03-invite-students.md) | Add students to the organization and provision their repositories |
 | 4 | [Review and Grade Notebooks](instructor-setup/04-review-notebooks.md) | Workflows for checking entries, leaving feedback, and assessing work |
 
-→ **[Open the full Instructor Setup Guide](instructor-setup/README.md)**
-
----
-
-## 📄 Templates
-
-Ready-to-use Markdown templates for common notebook entries:
+## Templates
 
 | Template | Purpose |
 |----------|---------|
@@ -68,7 +61,7 @@ Ready-to-use Markdown templates for common notebook entries:
 
 ---
 
-## ❓ FAQ
+## FAQ
 
 Common questions and troubleshooting tips are collected in the **[FAQ](FAQ.md)**.
 
@@ -80,10 +73,40 @@ Common questions and troubleshooting tips are collected in the **[FAQ](FAQ.md)**
 | File size and binary data | Size limits, Git LFS, images in Markdown |
 | Instructor questions | Bulk provisioning, branch protection, grading workflows |
 
-→ **[Read the FAQ](FAQ.md)**
+Read the [FAQ](FAQ.md).
 
 ---
 
-## License
+## Accessibility commitment
 
-See [LICENSE](LICENSE).
+This repository aims to follow accessible documentation practices:
+
+- Use clear heading hierarchy (one `#` title, then `##`, then `###`).
+- Use descriptive link text (avoid "click here").
+- Ensure all images include meaningful alt text.
+- Do not rely on color alone to communicate meaning.
+- Provide text alternatives for visual-only instructions.
+- Prefer plain language and short paragraphs.
+
+For details, see [ACCESSIBILITY.md](ACCESSIBILITY.md).
+
+---
+
+## Contributing
+
+Contributions are welcome, especially improvements to clarity, pedagogy, and accessibility.
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
+
+---
+
+## About this project
+
+This project was part of the Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education (OCTOPUS), funded by the NSF under grant DUE #2235723.
+
+---
+
+## License and citation
+
+- Repository license: [MIT License](LICENSE)
+- Citation and project context should remain in this repository and can be expanded in a dedicated `CITATION.md` if desired.
