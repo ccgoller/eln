@@ -21,4 +21,6 @@ Goller, C. C. (2026). *GitHub ELN: Onboarding and Tutorials for Electronic Lab N
 
 ## Acknowledgment
 
-This project was developed as part of Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education (OCTOPUS), funded by the U.S. National Science Foundation (DUE #2235723).
+This project was part of the OCTOPUS Project: Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education.
+
+We have received support from the Open Research Community Accelerator (ORCA) to support the adoption of open science through promoting collaborations effecting systems-level change. The project is a collaborative effort involving the RIOS Institute for a racially-just, inclusive, and open STEM education and the BioQUEST Curriculum Consortium, an education non-profit focused on supporting undergraduate STEM faculty as they engage in education reform.
