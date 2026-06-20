@@ -2,6 +2,8 @@
 
 A consistent folder structure makes your notebook easy to navigate — for you, your collaborators, and your instructor.
 
+← **[Back to Student Guidelines](README.md)**
+
 ---
 
 ## Recommended Folder Layout

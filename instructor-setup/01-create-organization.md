@@ -2,6 +2,8 @@
 
 A GitHub Organization is the shared workspace that houses all student notebook repositories. This keeps everything in one place and lets you manage access in bulk.
 
+← **[Back to Instructor Setup](README.md)**
+
 ---
 
 ## 1.1 Create the Organization

@@ -2,6 +2,8 @@
 
 This step covers how to check in on student progress, leave feedback, and assess lab notebook quality at the end of the term.
 
+← **[Back to Instructor Setup](README.md)**
+
 ---
 
 ## 4.1 Protect the Main Branch (Optional but Recommended)

@@ -2,6 +2,8 @@
 
 This step covers adding students to the GitHub Organization and creating an individual notebook repository for each of them.
 
+← **[Back to Instructor Setup](README.md)**
+
 ---
 
 ## 3.1 Collect Student GitHub Usernames

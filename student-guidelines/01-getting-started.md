@@ -2,6 +2,8 @@
 
 This guide takes you from zero to having a working lab notebook repository on GitHub.
 
+← **[Back to Student Guidelines](README.md)**
+
 ---
 
 ## Step 1 — Create a GitHub Account

@@ -2,6 +2,8 @@
 
 Welcome! This guide helps you start to use GitHub as your Electronic Lab Notebook (ELN).
 
+→ **[Back to main README](../README.md)**
+
 ---
 
 ## Table of Contents
@@ -10,6 +12,7 @@ Welcome! This guide helps you start to use GitHub as your Electronic Lab Noteboo
 2. [Structuring Your Lab Notebook](02-notebook-structure.md) — suggestions for folder layout, naming conventions, and how to organize your work
 3. [Recording Experiments](03-recording-experiments.md) — how to write entries, commit changes, and add data files
 4. [Best Practices](04-best-practices.md) — tips for keeping a thorough, reproducible record
+5. [FAQ](../FAQ.md) — answers to common questions and troubleshooting tips
 
 ---
 
@@ -27,6 +30,7 @@ Welcome! This guide helps you start to use GitHub as your Electronic Lab Noteboo
 
 ## Need Help?
 
+- Check the **[FAQ](../FAQ.md)** for answers to common questions and errors.
 - Consult the relevant section of this guide.
 - Open an Issue in your notebook repository and tag your instructor.
 - Contact your instructor.

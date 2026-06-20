@@ -2,6 +2,8 @@
 
 Following these practices will make your lab notebook more useful to you and easier for your instructor to review.
 
+← **[Back to Student Guidelines](README.md)**
+
 ---
 
 ## Commit Early and Often
