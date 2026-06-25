@@ -2,13 +2,11 @@
 
 > A practical, accessible guide for using GitHub as an Electronic Lab Notebook (ELN) in undergraduate courses and research labs created by instructors, teaching assistants, and students.
 
-> Carlos C. Goller | Teaching Professor, Department of Biological Sciences at NC State University, Raleigh, NC 
->
-> Shruti Vivek Kulkarni
->
-> Soham Gundewar
->
-> Camila Loyola Padilla
+Carlos C. Goller | Teaching Professor, Department of Biological Sciences at NC State University, Raleigh, NC 
+
+Shruti Vivek Kulkarni
+Soham Gundewar
+Camila Loyola Padilla
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Markdown](https://img.shields.io/badge/docs-Markdown-lightgrey.svg)](#)
