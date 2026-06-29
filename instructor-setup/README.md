@@ -1,4 +1,4 @@
-# Instructor Setup Guide — Electronic Lab Notebook on GitHub
+# ⚙️ Instructor Setup Guide — Electronic Lab Notebook on GitHub
 
 This guide walks you through setting up the GitHub-based ELN system for your lab or course, from creating the organization to reviewing student notebooks at the end of the term.
 
@@ -6,16 +6,16 @@ This guide walks you through setting up the GitHub-based ELN system for your lab
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-1. [Create a GitHub Organization](01-create-organization.md) — the shared home for all student notebooks
+1. [Create a GitHub Organization](01-create-organization.md) — the shared home for all student notebooks (optional)
 2. [Create a Template Repository](02-template-repository.md) — the starting point each student notebook is built from
 3. [Invite Students](03-invite-students.md) — add students to the organization and provision their repositories
 4. [Review and Grade Notebooks](04-review-notebooks.md) — workflows for checking entries, leaving feedback, and assessing work
 
 ---
 
-## Prerequisites
+## 🔧 Prerequisites
 
 Before you begin, you will need:
 
@@ -25,7 +25,7 @@ Before you begin, you will need:
 
 ---
 
-## At a Glance
+## ⭐ At a Glance
 
 | Step | Time | Output |
 |------|------|--------|
@@ -36,6 +36,6 @@ Before you begin, you will need:
 
 ---
 
-## Need Help?
+## 🛟 Need Help?
 
 Open an Issue in this repository, check the **[FAQ](../FAQ.md)**, or consult [GitHub's documentation](https://docs.github.com).
