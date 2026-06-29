@@ -1,4 +1,4 @@
-# Electronic Lab Notebooks (ELNs) in the Lab
+# 📓 Electronic Lab Notebooks (ELNs) in the Lab
 
 > A practical, accessible guide for using GitHub as an Electronic Lab Notebook (ELN) in undergraduate courses and research labs created by instructors, teaching assistants, and students.
 
@@ -12,21 +12,27 @@ Shruti Vivek Kulkarni, Goham Gundewar, Camila Loyola Padilla | Graduate Teaching
 
 ---
 
-## Who this repository is for...
+## 👥 Who this repository is for...
 
 - **Students** who need to practice documenting experiments clearly and consistently.
 - **Instructors** who want a repeatable workflow for setup and feedback.
 - **Teaching assistants** supporting notebook quality and reproducibility.
 
-## What you will learn...
+## 🧠 What you will learn...
 
 - How to organize an ELN using GitHub repositories and Markdown.
 - How to record experiments in a way that is reproducible and reviewable.
 - How instructors can provision, monitor, and assess student notebooks.
 
+## 🚀 Learning Outcomes
+
+Users will be able to...
+- **Describe** the use of GitHub as a platform for reproducible laboratory documentation.
+- **Explain** the importance of a lab notebook *template* and the process of *committing* changes.
+- **Evaluate** templates to determine features and requirements for several different courses, research projects, and use cases.
 ---
 
-## Start here! (5-minute path)
+## 🟢 Start here! (5-minute path)
 
 1. **Read** the [Student Guidelines](student-guidelines/README.md) or [Instructor Setup Guide](instructor-setup/README.md).
 2. **Copy** a template from [`templates/`](templates/).
@@ -34,7 +40,7 @@ Shruti Vivek Kulkarni, Goham Gundewar, Camila Loyola Padilla | Graduate Teaching
 
 ---
 
-## Student Pathway
+## 🎓 Student Pathway
 
 This guide provides support for users who start without a GitHub account. The steps will help you create an account, join an organization, clone a notebook, and begin editing entries. 
 
@@ -47,7 +53,7 @@ Begin with: **[Student Guidelines](student-guidelines/README.md)**
 | 3 | [Recording Experiments](student-guidelines/03-recording-experiments.md) | How to write entries, commit changes, and add data files |
 | 4 | [Best Practices](student-guidelines/04-best-practices.md) | Tips for keeping a thorough, reproducible record |
 
-## Instructor Pathway
+## 👩🏼‍🏫 Instructor Pathway
 
 The guide offers instructors support for setting up a course or lab repository, an organization, and template lab notebooks.
 
