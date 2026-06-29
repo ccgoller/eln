@@ -66,7 +66,7 @@ Begin with: **[Instructor Setup Guide](instructor-setup/README.md)**
 | 3 | [Invite Students](instructor-setup/03-invite-students.md) | Add students to the organization and provision their repositories |
 | 4 | [Review and Grade Notebooks](instructor-setup/04-review-notebooks.md) | Workflows for checking entries, leaving feedback, and assessing work |
 
-## Templates
+## 📄 Templates
 
 We share some of the templates we have used for courses at North Carolina State University. We continue to edit and improve the templates with each course offering and helpful user feedback. We encourage you to share suggestions and templates. 
 
@@ -77,7 +77,7 @@ We share some of the templates we have used for courses at North Carolina State 
 
 ---
 
-## Frequently Asked Questions (FAQs)
+## ❓ Frequently Asked Questions (FAQs)
 
 Common questions and troubleshooting tips are collected in the **[FAQ](FAQ.md)**.
 
@@ -93,7 +93,7 @@ Read the [FAQ](FAQ.md).
 
 ---
 
-## Accessibility Commitment
+## 🌐 Accessibility Commitment
 
 We strive to create a repository that follows accessible documentation practices:
 
@@ -110,7 +110,7 @@ For additional details, refer to [ACCESSIBILITY.md](ACCESSIBILITY.md).
 
 ---
 
-## Contributing
+## 🌱 Contributing
 
 Contributions are welcome, especially improvements to clarity, pedagogy, and accessibility.
 
@@ -118,9 +118,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
 
 ---
 
-## About this Project
+## ℹ️ About this Project
 
-This project was part of the OCTOPUS Project: Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education.
+This project was part of the [OCTOPUS Project: Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education](https://qubeshub.org/community/groups/octopus).
 
 We have received support from the Open Research Community Accelerator (ORCA) to support the adoption of open science through promoting collaborations effecting systems-level change. The project is a collaborative effort involving the RIOS Institute for a racially-just, inclusive, and open STEM education and the BioQUEST Curriculum Consortium, an education non-profit focused on supporting undergraduate STEM faculty as they engage in education reform.
 
