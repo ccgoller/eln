@@ -126,7 +126,7 @@ We have received support from the Open Research Community Accelerator (ORCA) to 
 
 ---
 
-## License and Citation
+## 🛈 License and Citation
 
 - Repository license: [MIT License](LICENSE)
 
