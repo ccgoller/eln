@@ -4,7 +4,7 @@
 
 Carlos C. Goller | Teaching Professor, Department of Biological Sciences at NC State University, Raleigh, NC 
 
-Shruti Vivek Kulkarni, Goham Gundewar, Camila Loyola Padilla | Graduate Teaching Assistants, NC State University, Raleigh, NC
+Shruti Vivek Kulkarni, Soham Gundewar, Camila Loyola Padilla | Graduate Teaching Assistants, NC State University, Raleigh, NC
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Markdown](https://img.shields.io/badge/docs-Markdown-lightgrey.svg)](#)
