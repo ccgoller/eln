@@ -130,6 +130,6 @@ We have received support from the Open Research Community Accelerator (ORCA) to 
 
 - Repository license: [MIT License](LICENSE)
 
-> Carlos C. Goller (2026). Promoting Open Science & Open Education through Accessible and Electronic Lab Notebooks. OCTOPUS - Open Science and Open Pedagogy Project (Version 2.0). QUBES Educational Resources. doi:10.25334/1FZC-5J97
+> Carlos C. Goller; Gundewar, S.; Padilla, C. L. (2026). Promoting Open Science & Open Education through Accessible and Electronic Lab Notebooks. OCTOPUS - Open Science and Open Pedagogy Project, (Version 3.0). QUBES Educational Resources. doi:10.25334/Z6TY-AA95
 
 - Citation and project context should remain in this repository and can be expanded in a dedicated `CITATION.md` if desired.
