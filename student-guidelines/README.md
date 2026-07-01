@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Student Guidelines — Electronic Lab Notebooks (ELNs) on GitHub
 
-Welcome! This guide helps you get started using GitHub as your Electronic Lab Notebook (ELN).
+**Welcome!** This guide helps you get started using GitHub as your Electronic Lab Notebook (ELN).
 
 → **[Back to main README](../README.md)**
 
