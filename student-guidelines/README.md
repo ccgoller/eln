@@ -1,12 +1,12 @@
-# Student Guidelines — Electronic Lab Notebook on GitHub
+# 👩🏻‍💻 Student Guidelines — Electronic Lab Notebooks (ELNs) on GitHub
 
-Welcome! This guide helps you start to use GitHub as your Electronic Lab Notebook (ELN).
+Welcome! This guide helps you get started using GitHub as your Electronic Lab Notebook (ELN).
 
 → **[Back to main README](../README.md)**
 
 ---
 
-## Table of Contents
+## 📢 Table of Contents
 
 1. [Getting Started with GitHub](01-getting-started.md) — create an account, join an organization, and clone your notebook repository
 2. [Structuring Your Lab Notebook](02-notebook-structure.md) — suggestions for folder layout, naming conventions, and how to organize your work
@@ -16,7 +16,7 @@ Welcome! This guide helps you start to use GitHub as your Electronic Lab Noteboo
 
 ---
 
-## Quick Reference
+## 💡 Quick Reference
 
 | Task | How |
 |------|-----|
@@ -28,7 +28,7 @@ Welcome! This guide helps you start to use GitHub as your Electronic Lab Noteboo
 
 ---
 
-## Need Help?
+## 🛟 Need Help?
 
 - Check the **[FAQ](../FAQ.md)** for answers to common questions and errors.
 - Consult the relevant section of this guide.
