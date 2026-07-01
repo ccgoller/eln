@@ -14,13 +14,13 @@ Shruti Vivek Kulkarni, Soham Gundewar, Camila Loyola Padilla | Graduate Teaching
 
 ## 👥 Who this repository is for...
 
-- **Students** who need to practice documenting experiments clearly and consistently.
-- **Instructors** who want a repeatable workflow for setup and feedback.
+- **Students** who want to practice documenting experiments clearly and consistently.
+- **Instructors** who want a repeatable workflow for setup of ELNs and feedback.
 - **Teaching assistants** supporting notebook quality and reproducibility.
 
 ## 🧠 What you will learn...
 
-- How to organize an ELN using GitHub repositories and Markdown.
+- How to organize an ELN using GitHub repositories and GitHub Markdown.
 - How to record experiments in a way that is reproducible and reviewable.
 - How instructors can provision, monitor, and assess student notebooks.
 
@@ -42,7 +42,7 @@ Users will be able to...
 
 ## 🎓 Student Pathway
 
-This guide provides support for users who start without a GitHub account. The steps will help you create an account, join an organization, clone a notebook, and begin editing entries. 
+This guide provides support for users who start without a GitHub account. The steps will help you create an account, join an organization (if needed), clone a notebook, and begin editing entries.
 
 Begin with: **[Student Guidelines](student-guidelines/README.md)**
 
@@ -104,7 +104,7 @@ We strive to create a repository that follows accessible documentation practices
 - Provide text alternatives for visual-only instructions.
 - Prefer plain language and short paragraphs.
 
-However, we are still learning! Please let us know how we can improve the resources on this site.
+However, we are *still learning!* Please let us know how we can improve the resources on this site.
 
 For additional details, refer to [ACCESSIBILITY.md](ACCESSIBILITY.md).
 
@@ -120,7 +120,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
 
 ## ℹ️ About this Project
 
-This project was part of the [OCTOPUS Project: Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education](https://qubeshub.org/community/groups/octopus).
+This project was part of the **[OCTOPUS Project: Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education](https://qubeshub.org/community/groups/octopus).**
 
 We have received support from the Open Research Community Accelerator (ORCA) to support the adoption of open science through promoting collaborations effecting systems-level change. The project is a collaborative effort involving the RIOS Institute for a racially-just, inclusive, and open STEM education and the BioQUEST Curriculum Consortium, an education non-profit focused on supporting undergraduate STEM faculty as they engage in education reform.
 
@@ -131,5 +131,3 @@ We have received support from the Open Research Community Accelerator (ORCA) to 
 - Repository license: [MIT License](LICENSE)
 
 > Carlos C. Goller; Gundewar, S.; Padilla, C. L. (2026). Promoting Open Science & Open Education through Accessible and Electronic Lab Notebooks. OCTOPUS - Open Science and Open Pedagogy Project, (Version 3.0). QUBES Educational Resources. doi:10.25334/Z6TY-AA95
-
-- Citation and project context should remain in this repository and can be expanded in a dedicated `CITATION.md` if desired.
