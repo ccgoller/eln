@@ -15,7 +15,7 @@ Shruti Vivek Kulkarni, Soham Gundewar, Camila Loyola Padilla | Graduate Teaching
 ## 👥 Who this repository is for...
 
 - **Students** who want to practice documenting experiments clearly and consistently.
-- **Instructors** who want a repeatable workflow for setup of ELNs and feedback.
+- **Instructors** who want a repeatable workflow for the setup of ELNs and feedback.
 - **Teaching assistants** supporting notebook quality and reproducibility.
 
 ## 🧠 What you will learn...
