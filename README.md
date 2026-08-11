@@ -74,7 +74,7 @@ We share some of the templates we have used for courses at North Carolina State 
 |----------|---------|
 | [Experiment Entry](templates/experiment-entry.md) | Record a single lab session or experiment |
 | [Weekly Summary](templates/weekly-summary.md) | Summarize a week's work and plan ahead |
-| [MB 360 Entry]() | Lab entry for the MB 360 CURE lab |
+| [MB 360 Entry](https://github.com/ncstate-cos/mb360/tree/main/Notebooks) | Lab entry for the MB 360 CURE lab |
 
 ---
 
