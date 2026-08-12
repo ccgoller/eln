@@ -47,17 +47,19 @@ Your instructor will have created a notebook repository for you, sometimes insid
 
 ## Step 5 — Fork Main Repository
 
-1. The notebook repository view should look like this:
-<img width="1306" height="743" alt="Screenshot 2026-08-12 at 11 25 24 AM" src="https://github.com/user-attachments/assets/c6a5da0c-bea7-4af1-8e8f-6621fd657de2" />
-2. In the upper-right corner, there is an option to fork a repository; select it. 
+The notebook repository is available to all students; by creating your own fork, you ensure you have a "copy" of the notebook which can then be cloned in your own computer. 
+
+1. In the upper-right corner, there is an option to fork a repository; select it. 
 <img width="1306" height="743" alt="Fork" src="https://github.com/user-attachments/assets/286449e8-83ee-41e0-8b08-c9881a53c68e" />
-3. In the "Choose Owner" drop-down menu, choose your name. In the “Repository Name” tab, type: mb360-Your Name
+2. In the "Choose Owner" drop-down menu, choose your name. In the “Repository Name” tab, type: mb360-Your Name
 <img width="796" height="499" alt="Screenshot 2026-08-12 at 11 31 25 AM" src="https://github.com/user-attachments/assets/07feb178-7cc2-44bc-9140-df5dfc860621" />
+
+You have forked the main repository, which means you have a “copy” of the main repository where you can push changes and update from the main branch if necessary. 
 
 
 ---
 
-## Step 5 — Install Git
+## Step 6 — Install Git
 
 You need Git on your computer to push changes from your local machine to GitHub.
 
@@ -82,7 +84,7 @@ git --version
 
 ---
 
-## Step 6 — Configure Git
+## Step 7 — Configure Git
 
 Tell Git your name and email (use the same email as your GitHub account):
 
@@ -93,7 +95,7 @@ git config --global user.email "you@example.com"
 
 ---
 
-## Step 7 — Clone Your Notebook Repository
+## Step 8 — Clone Your Notebook Repository
 
 1. Navigate to your notebook repository on GitHub.
 2. Click the green **Code** button and copy the HTTPS URL.
@@ -108,7 +110,7 @@ Your notebook is now on your local computer. Any changes you make here can be pu
 
 ---
 
-## Step 8 — Make Your First Commit
+## Step 9 — Make Your First Commit
 
 Verify everything works by making a small change:
 
