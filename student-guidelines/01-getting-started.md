@@ -10,7 +10,7 @@ This guide helps you have a working lab notebook repository on GitHub.
 
 1. Go to [github.com](https://github.com) and click **Sign up**.
 2. Choose a username that identifies you professionally (e.g., `firstname-lastname` or your university username).
-3. Use your institutional email address if possible — this can qualify you for the [GitHub Student Developer Pack](https://education.github.com/pack).
+3. Use your institutional email address — this can qualify you for the [GitHub Student Developer Pack](https://education.github.com/pack).
 4. Complete the email verification step(s).
 
 ---
