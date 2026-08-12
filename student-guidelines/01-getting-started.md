@@ -45,6 +45,18 @@ Your instructor will have created a notebook repository for you, sometimes insid
 
 ---
 
+## Step 5 — Fork Main Repository
+
+1. The notebook repository view should look like this:
+<img width="1306" height="743" alt="Screenshot 2026-08-12 at 11 25 24 AM" src="https://github.com/user-attachments/assets/c6a5da0c-bea7-4af1-8e8f-6621fd657de2" />
+2. In the upper-right corner, there is an option to fork a repository; select it. 
+<img width="1306" height="743" alt="Fork" src="https://github.com/user-attachments/assets/286449e8-83ee-41e0-8b08-c9881a53c68e" />
+3. In the "Choose Owner" drop-down menu, choose your name. In the “Repository Name” tab, type: mb360-Your Name
+<img width="796" height="499" alt="Screenshot 2026-08-12 at 11 31 25 AM" src="https://github.com/user-attachments/assets/07feb178-7cc2-44bc-9140-df5dfc860621" />
+
+
+---
+
 ## Step 5 — Install Git
 
 You need Git on your computer to push changes from your local machine to GitHub.
