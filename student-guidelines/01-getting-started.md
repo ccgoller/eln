@@ -56,12 +56,11 @@ The notebook repository is available to all students; by creating your own fork,
 
 You have forked the main repository, which means you have a “copy” of the main repository where you can push changes and update from the main branch if necessary. 
 
-
 ---
 
 ## Step 6 — Install Git
 
-You need Git on your computer to push changes from your local machine to GitHub. Open the terminal app on your computer. 
+You need Git on your computer to push changes from your local machine to GitHub. Open the terminal app on your computer and run the following lines of code depending on your operating system (macOS, Windows, or Linux)  
 
 ### macOS
 ```bash
