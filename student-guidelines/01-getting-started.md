@@ -61,7 +61,7 @@ You have forked the main repository, which means you have a “copy” of the ma
 
 ## Step 6 — Install Git
 
-You need Git on your computer to push changes from your local machine to GitHub.
+You need Git on your computer to push changes from your local machine to GitHub. Open the terminal app on your computer. 
 
 ### macOS
 ```bash
