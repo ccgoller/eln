@@ -98,6 +98,7 @@ git config --global user.email "you@example.com"
 
 1. Navigate to your notebook repository on GitHub.
 2. Click the green **Code** button and copy the HTTPS URL.
+<img width="1285" height="462" alt="Screenshot 2026-08-13 at 2 02 24 PM" src="https://github.com/user-attachments/assets/43cb1ab4-0d28-4f00-90e0-569ebcf57f97" />
 3. In your terminal, run:
 
 ```bash
