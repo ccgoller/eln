@@ -24,6 +24,6 @@ Loyola, C., Vivek Kulkarni, S., Gudewar S., & Goller, C. C. (2026). *GitHub ELN:
 
 ## Acknowledgment
 
-This project was part of the OCTOPUS Project: Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education.
+This project was part of the OCTOPUS Project: Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education. The [NC State University Libraries Alt-Textbook](https://www.lib.ncsu.edu/do/open-education/alt-textbook) program provided support for graduate students.
 
 We have received support from the Open Research Community Accelerator (ORCA) to support the adoption of open science through promoting collaborations effecting systems-level change. The project is a collaborative effort involving the RIOS Institute for a racially-just, inclusive, and open STEM education and the BioQUEST Curriculum Consortium, an education non-profit focused on supporting undergraduate STEM faculty as they engage in education reform.
