@@ -15,7 +15,7 @@ cp path/to/templates/experiment-entry.md \
    experiments/YYYY-MM-DD_short-title.md
 ```
 
-2. Fill in the **Objective**, **Hypothesis**, and **Materials/Reagents** sections *before* you begin.
+2. Open the Lab notebook in VS Code and add the required information; this depends on the lab. The first lab will mainly have discussion and results questions, while later labs will ask for more.
 3. Commit and push this initial entry so there is a timestamped record that you planned the experiment:
 
 ```bash
