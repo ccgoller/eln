@@ -27,7 +27,6 @@
 | Ask for help! | Open a GitHub Issue in your notebook repository |
 
 ---
-
 ## 🛟 Need Help?
 
 - Check the **[FAQ](../FAQ.md)** for answers to common questions and errors.
