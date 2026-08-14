@@ -105,6 +105,7 @@ git config --global user.email "you@example.com"
 git clone https://github.com/your-lab/notebook-your-name.git
 cd notebook-your-name
 ```
+Replace the link with the HTTPS URL you copied before. 
 
 Your notebook is now on your local computer. Any changes you make here can be pushed to GitHub.
 
