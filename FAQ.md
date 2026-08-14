@@ -42,9 +42,9 @@ For small edits, yes — click the pencil icon on any file in the GitHub web int
 
 1. Check your spam or junk folder.
 2. Log in to [github.com/notifications](https://github.com/notifications) to find the invitation directly.
-3. If it has expired (invitations expire after 7 days), ask your instructor to re-send it.
+3. If it has expired (invitations expire after 7 days), ask your instructor to resend it.
 
-### I accepted the invitation but I can't see my notebook repository.
+### I accepted the invitation, but I can't see my notebook repository.
 
 - Make sure you are logged in to the correct GitHub account.
 - Go to the organization page (your instructor will share the URL) and look under **Repositories**.
@@ -64,7 +64,7 @@ Restart your terminal or open a new Command Prompt / PowerShell window after ins
 
 ### Git is asking for my password on every push.
 
-Configure a credential helper so Git remembers your credentials:
+Configure a credential helper, so Git remembers your credentials:
 
 ```bash
 # macOS — use the system keychain
