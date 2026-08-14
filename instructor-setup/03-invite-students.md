@@ -10,7 +10,7 @@ This step covers adding students to the GitHub Organization and creating an indi
 
 Before inviting students, you need their GitHub usernames. Collect them via:
 
-- A course survey or intake form (Google Form, etc.)
+- A course survey or intake form (Google Form, for example)
 - A sign-up sheet during the first lab meeting
 
 > Students who do not yet have a GitHub account should create one first. Point them to [Student Guidelines — Getting Started](../student-guidelines/01-getting-started.md).
