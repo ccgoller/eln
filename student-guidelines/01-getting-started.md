@@ -133,10 +133,12 @@ You have now opened Lab 1 from your Lab Notebook in VS Code and are ready to mak
 4. Click on the “Fork” icon on the left side of the page: 
 <img width="1052" height="543" alt="Make your first commit - Step 4" src="https://github.com/user-attachments/assets/5ebdc3ea-0c6f-4182-ab9c-9f833ced5534" />
 
-5. Save the changes you want to commit. They will be shown by the name of the file (lab notebook) you just edited. Click the plus icon:  
+5. Save the changes you want to commit. They will be shown by the name of the file (lab notebook) you just edited. Click the plus icon. This will move the file from the "Changes" tab to the "Staged Changes".   
 <img width="303" height="203" alt="1st commit - step 5" src="https://github.com/user-attachments/assets/0fb6be3e-2b97-4ea8-b177-06737440d602" />
 
-6. Click the drop-down menu and click the “Commit & Push” option. The commit option saves the changes on your computer, and the Push option saves the changes in your GitHub repository. 
+Keep in mind that only staged changes can be committed and pushed to GitHub; all other changes that were not added will not be saved. 
+
+6. Click the drop-down menu and click the “Commit & Push” option. The commit option saves the changes on your computer, and the Push option saves the changes in your GitHub repository. Type a message in the Text box above the "Commit" button; this is used to describe the changes you just made. **If you forgot to type a message, follow Step 7.** 
 <img width="459" height="282" alt="1st commit - step 6" src="https://github.com/user-attachments/assets/7fb3463d-cf76-476a-917e-1c98480e00ae" />
 
 7. VS Code will prompt you to write a description of the changes you made. This helps you keep track of the changes you've made in the notebook. Feel free to add a small description and then click Commit:
