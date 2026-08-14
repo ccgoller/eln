@@ -39,7 +39,7 @@ Record observations in real time whenever possible. Write:
 3. If you open VS Code, you'll find your data file:
 <img width="312" height="182" alt="Screenshot 2026-08-14 at 4 23 40 PM" src="https://github.com/user-attachments/assets/105e7188-8926-4e5d-97f4-a19d4416a7b0" />
 
-4. Save the changes in VS Code by 
+4. Save the changes in VS Code by (Command + S on Mac) or (Ctrl + S on Windows). Then click the Fork icon and Push and commit the changes as explained before. 
 
 ---
 
