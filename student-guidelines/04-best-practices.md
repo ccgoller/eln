@@ -51,7 +51,8 @@ This creates a transparent audit trail.
 
 ## Keep Your README Up to Date
 
-Your `README.md` is the first thing your instructor sees. Update it at least once a week to reflect:
+Your `README.md` is the first thing your instructor sees. 
+Update it at least once a week to reflect:
 
 - Current project status.
 - A brief summary of recent work.
