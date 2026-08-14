@@ -34,15 +34,12 @@ Record observations in real time whenever possible. Write:
 
 ## After the Experiment
 
-1. Complete the **Results** and **Discussion** sections of your entry.
-2. Add any raw data files to the `data/` folder and link to them from the entry.
-3. Commit all changes:
+1. Complete the **Results** and **Discussion** sections of your entry; make sure to answer the necessary questions. 
+2. Some labs will require you to add .csv files for data analysis. You can just drag and drop your file into the "Data" Folder of your Lab notebook on your computer (Not VS Code or GitHub).
+3. If you open VS Code, you'll find your data file:
+<img width="312" height="182" alt="Screenshot 2026-08-14 at 4 23 40 PM" src="https://github.com/user-attachments/assets/105e7188-8926-4e5d-97f4-a19d4416a7b0" />
 
-```bash
-git add experiments/YYYY-MM-DD_short-title.md data/YYYY-MM-DD_dataset.csv
-git commit -m "Complete entry: short-title — results and data"
-git push
-```
+4. Save the changes in VS Code by 
 
 ---
 
