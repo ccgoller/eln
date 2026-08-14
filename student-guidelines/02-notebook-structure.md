@@ -78,7 +78,7 @@ git push
 
 ---
 
-This will create folders that you can use to organize your data and experiments on your computer. Check out your notebook folder to see the new folders. 
+This will create folders that you can use to organize your data and experiments on your computer. Check out your notebook folder to see the new folders created. 
 
 ## Next Step
 
