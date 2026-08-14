@@ -1,11 +1,11 @@
-# Contributing to GitHub ELN
+# 🌱 Contributing to GitHub ELN
 
 Thank you for helping improve this repository.
 
 ## Ways to contribute
 
 - Fix typos, broken links, or unclear wording.
-- Improve tutorial flow and onboarding clarity.
+- Improve tutorial flow and onboarding clarity by suggesting rewording or additional explanations.
 - Add examples that improve reproducibility.
 - Propose accessibility improvements.
 
