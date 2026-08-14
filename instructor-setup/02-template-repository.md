@@ -37,7 +37,7 @@ Clone the template repository locally and set up the standard folder layout:
 git clone https://github.com/your-org/notebook-template.git
 cd notebook-template
 
-# Create folders with placeholder files so Git tracks them
+# Create folders with placeholder files, so Git tracks them
 mkdir -p experiments data protocols references summaries
 touch experiments/.gitkeep data/.gitkeep protocols/.gitkeep \
       references/.gitkeep summaries/.gitkeep
