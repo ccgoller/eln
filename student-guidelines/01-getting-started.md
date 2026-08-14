@@ -120,20 +120,25 @@ VS Code is an app that allows you to sync your GitHub repository (notebook) and 
 <img width="1058" height="948" alt="VS Code step 3" src="https://github.com/user-attachments/assets/54b3bd92-e514-4470-bbe3-9400fdc88c2f" />
 4. Once your folder has been selected, you can navigate through your lab notebook and make changes. Click on the “Notebooks” tab and navigate to Lab 1.
 
-## Step 9 — Make Your First Commit
+## Step 10 — Make Your First Commit
 
 You have now opened the lab notebook in VS Code and are ready to make changes. 
 1. You can add anything in your notebook. Try to type something in the notebook. VS Code will show you the changes you are making to your notebook:
 <img width="508" height="514" alt="Making your first commit - step1" src="https://github.com/user-attachments/assets/6385bb4a-4d41-4f64-b181-f7eb91b641a4" />
+
 2. At the upper end of VS Code, you can find the notebook that is currently open; a white dot next to it shows that there are unsaved changes: 
 <img width="486" height="452" alt="Make your first commit - Step 2" src="https://github.com/user-attachments/assets/f6424657-17af-47ab-83de-fedff195ca1e" />
+
 3. Press Command + S to save all changes. This will save changes in VS Code; however, extra steps are needed to commit a change so it shows in GitHub. 
 4. Click on the “Fork” icon on the left side of the page: 
 <img width="1052" height="543" alt="Make your first commit - Step 4" src="https://github.com/user-attachments/assets/5ebdc3ea-0c6f-4182-ab9c-9f833ced5534" />
+
 5. Save the changes you want to commit. They will be shown by the name of the file (lab notebook) you just edited. Click the plus icon:  
 <img width="303" height="203" alt="1st commit - step 5" src="https://github.com/user-attachments/assets/0fb6be3e-2b97-4ea8-b177-06737440d602" />
+
 6. Click the drop-down menu and click the “Commit & Push” option. The commit option saves the changes on your computer, and the Push option saves the changes in your GitHub repository. 
 <img width="459" height="282" alt="1st commit - step 6" src="https://github.com/user-attachments/assets/7fb3463d-cf76-476a-917e-1c98480e00ae" />
+
 7. VS Code will prompt you to write a description of the changes you made. This helps you keep track of the changes you've made in the notebook. Feel free to add a small description and then click Commit:
 <img width="482" height="872" alt="1st commit step 7" src="https://github.com/user-attachments/assets/2e099f3e-fdbd-4c20-b12e-efb67a78bc0b" />
 
