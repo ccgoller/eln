@@ -2,7 +2,8 @@
 
 **Week:** [ISO week number, e.g., 2025-W11]  
 **Dates:** YYYY-MM-DD to YYYY-MM-DD  
-**Name:** [Your Name]  
+**Name:** [Your Name] 
+**Group or Lab Partner (if applicable):**
 **Project:** [Project / Course Name]
 
 ---
