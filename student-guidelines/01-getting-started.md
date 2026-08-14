@@ -122,14 +122,14 @@ VS Code is an app that allows you to sync your GitHub repository (notebook) and 
 
 ## Step 10 — Make Your First Commit
 
-You have now opened the lab notebook in VS Code and are ready to make changes. 
+You have now opened Lab 1 from your Lab Notebook in VS Code and are ready to make changes. 
 1. You can add anything in your notebook. Try to type something in the notebook. VS Code will show you the changes you are making to your notebook:
 <img width="508" height="514" alt="Making your first commit - step1" src="https://github.com/user-attachments/assets/6385bb4a-4d41-4f64-b181-f7eb91b641a4" />
 
-2. At the upper end of VS Code, you can find the notebook that is currently open; a white dot next to it shows that there are unsaved changes: 
+2. At the top of VS Code page, you can find the notebook that is currently open; a white dot next to it shows that there are unsaved changes: 
 <img width="486" height="452" alt="Make your first commit - Step 2" src="https://github.com/user-attachments/assets/f6424657-17af-47ab-83de-fedff195ca1e" />
 
-3. Press Command + S to save all changes. This will save changes in VS Code; however, extra steps are needed to commit a change so it shows in GitHub. 
+3. Press (Command + S for Mac) or (Ctrl + S in Windows) to save all changes. This will save changes in VS Code; however, extra steps are needed to commit a change so it shows in GitHub. 
 4. Click on the “Fork” icon on the left side of the page: 
 <img width="1052" height="543" alt="Make your first commit - Step 4" src="https://github.com/user-attachments/assets/5ebdc3ea-0c6f-4182-ab9c-9f833ced5534" />
 
