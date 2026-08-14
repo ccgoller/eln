@@ -1,6 +1,6 @@
 # Step 1 — Create a GitHub Organization (optional)
 
-A **GitHub Organization** is the shared workspace that houses all student notebook repositories. This keeps everything in one place and lets you manage access in bulk. GitHub offers limited free organization features. Your institution may support the creation of a GitHub Organization using your .edu account. Creation of a GitHub Organization is optional.
+A **GitHub Organization** is the shared workspace that houses all student notebook repositories. This keeps everything in one place and lets you manage access in bulk. GitHub offers limited free organization features. Your institution may support creating a GitHub Organization using your .edu account. Creation of a GitHub Organization is optional.
 
 ← **[Back to Instructor Setup](README.md)**
 
@@ -49,7 +49,9 @@ You are automatically an Owner when you create the organization. If you want a c
 
 ## 1.4 (Optional) Create Teams
 
-Teams let you group students by lab section, project, or cohort and manage permissions at the group level.
+Teams let you group students by lab section, project, or cohort and manage permissions at the group level. 
+
+If needed, email your system administrator once you have your course roster to create a team and invite participants.
 
 1. Go to **Teams** on the organization page.
 2. Click **New team**.
@@ -60,11 +62,18 @@ Teams let you group students by lab section, project, or cohort and manage permi
 
 ## Verification
 
-Before continuing, confirm:
+### Before continuing, confirm:
 
 - [ ] You can view the organization at `github.com/your-org-name`.
 - [ ] You appear as an **Owner** under **People**.
 - [ ] Member base permissions are set to **No permission**.
+
+### For GitHub Teams in GitHub Environments, confirm:
+
+- [ ] Email your system administrator to set up a **repository or team for your course**.
+- [ ] Verify that you have access to your team.
+- [ ] Review members to help those struggling to log in. In some cases, students may need to log into the system before continuing. 
+
 
 ---
 
