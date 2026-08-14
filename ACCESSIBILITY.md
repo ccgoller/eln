@@ -1,6 +1,6 @@
 # 🌐 Accessibility Guidelines for This Repository and Notebooks
 
-This document defines accessibility expectations for all documentation and templates in this repository.
+This document defines the accessibility expectations for all documentation and templates in this repository.
 
 ## 📄 Documentation standards
 
