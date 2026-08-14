@@ -42,6 +42,8 @@ notebook-your-name/
 - Always start experiment and data files with the **ISO date** (`YYYY-MM-DD`) for automatic chronological sorting.
 - Keep titles short but descriptive.
 
+All the Folders we will be using for the rest of the semester (Experiments, data, protocols, references, and summaries) will be created in the next step.
+
 ---
 
 ## Your README.md
@@ -58,7 +60,7 @@ Your repository's `README.md` is the front page of your notebook. Keep it update
 
 ## Setting Up the Structure
 
-Run these commands once after cloning your repository:
+Run these commands once after cloning your repository. Make sure to replace "notebook-your-name" with your actual notebook name:
 
 ```bash
 cd notebook-your-name
@@ -75,6 +77,8 @@ git push
 ```
 
 ---
+
+This will create folders that you can use to organize your data and experiments on your computer. Check out your notebook folder to see the new folders. 
 
 ## Next Step
 
