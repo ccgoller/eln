@@ -14,7 +14,7 @@ Open the lab notebook corresponding to that week’s experiment in VS Code.
 <img width="612" height="281" alt="Screenshot 2026-08-14 at 2 36 31 PM" src="https://github.com/user-attachments/assets/3126c37a-4b93-49a1-a715-0d0b9f9916f4" />
 
 2. You will also rename your lab notebook in VS Code. Right-click your lab entry and choose the “Rename” option. **Before submitting your work, rename your Lab notebook as: Lab-1-YourName-YYYY-MM-DD**
-<img width="318" height="179" alt="Screenshot 2026-08-14 at 2 46 04 PM" src="https://github.com/user-attachments/assets/e3384eb4-bf68-405e-8a46-21076136e54f" />
+<img width="316" height="194" alt="Screenshot 2026-08-14 at 4 04 24 PM" src="https://github.com/user-attachments/assets/541e2fec-9822-48c0-b2cb-b9651d20312a" />
 
 3. Press (Command + S on Mac) or (Ctrl + S on Windows) to save the rename changes. To commit and push changes, follow the same steps as the “01-getting-started” instructions, Step 10. 
 
