@@ -1,16 +1,19 @@
-# Citation
+# ❝ Citation
 
-If you use this repository in teaching, curriculum design, or scholarly work, please cite it.
+If you use this repository in teaching, curriculum design, or scholarly work, please consider citing it.
 
-## Recommended citation
+## Recommended Citation
 
-Goller, C. C. (2026). *GitHub ELN: Onboarding and Tutorials for Electronic Lab Notebooks* (Version 2.0) [Educational resource]. GitHub. https://github.com/ccgoller/eln
+Loyola, C., Vivek Kulkarni, S., Gudewar S., & Goller, C. C. (2026). *GitHub ELN: Onboarding and Tutorials for Electronic Lab Notebooks* (Version 2.0) [Educational resource]. GitHub. https://github.com/ccgoller/eln
 
 ## BibTeX
 
 ```bibtex
 @misc{goller2026githubeln,
   author       = {Goller, Carlos C.},
+  author       = {Loyola, C.},
+  author       = {Vivek Kulkarni, S.},
+  author       = {Gudewar S.},        
   title        = {GitHub ELN: Onboarding and Tutorials for Electronic Lab Notebooks},
   year         = {2026},
   howpublished = {GitHub repository},
