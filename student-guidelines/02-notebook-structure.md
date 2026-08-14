@@ -42,7 +42,7 @@ notebook-your-name/
 - Always start experiment and data files with the **ISO date** (`YYYY-MM-DD`) for automatic chronological sorting.
 - Keep titles short but descriptive.
 
-All the Folders we will be using for the rest of the semester (Experiments, data, protocols, references, and summaries) will be created in the next step.
+All the Folders we will be using for the rest of the semester (Experiments, data, protocols, references, and summaries) will be created in the Setting up the structure step.
 
 ---
 
