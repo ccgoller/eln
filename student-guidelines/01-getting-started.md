@@ -1,6 +1,6 @@
 # 1. Getting Started with GitHub
 
-This guide helps you have a working lab notebook repository on GitHub.
+This guide helps you create a working lab notebook repository on GitHub.
 
 ← **[Back to Student Guidelines](README.md)**
 
@@ -17,7 +17,7 @@ This guide helps you have a working lab notebook repository on GitHub.
 
 ## Step 2 — Enable Two-Factor Authentication (2FA)
 
-Enabling 2FA for your notebook is required by most labs and courses.
+Enabling 2FA for your notebook is required by most labs and courses using GitHub Enterprise environments.
 
 1. Go to **Settings → Password and authentication**.
 2. Under **Two-factor authentication**, click **Enable**.
@@ -47,7 +47,7 @@ Your instructor will have created a notebook repository for you, sometimes insid
 
 ## Step 5 — Fork Main Repository
 
-The notebook repository is available to all students; by creating your own fork, you ensure you have a "copy" of the notebook which can then be cloned in your own computer. 
+The notebook repository is available to all students; by creating your own fork, you ensure you have a "copy" of the notebook that you can then clone on your own computer. 
 
 1. In the upper-right corner, there is an option to fork a repository; select it. 
 <img width="1306" height="743" alt="Fork" src="https://github.com/user-attachments/assets/286449e8-83ee-41e0-8b08-c9881a53c68e" />
