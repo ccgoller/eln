@@ -157,7 +157,9 @@ You've learned how to make changes in your notebook and how to commit and push t
 
 This syncs your Notebook repository with the Main Repository. 
 
-2. To update your notebook in VS Code, open VS Code 
+2. To update your notebook in VS Code, open VS Code, navigate to the fork icon, and under the "Repository" tab, you'll find the name of your notebook repository. Click the sync icon next to it to synchronize your VS Code with the GitHub changes.
+<img width="313" height="392" alt="Screenshot 2026-08-14 at 3 52 10 PM" src="https://github.com/user-attachments/assets/03544632-fe33-4402-a1f0-3c5f9f8e7109" />
+
 
 ---
 
