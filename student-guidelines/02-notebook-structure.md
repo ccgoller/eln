@@ -65,7 +65,7 @@ cd notebook-your-name
 
 mkdir -p experiments data protocols references summaries
 
-# Create placeholder files so Git tracks the empty folders
+# Create placeholder files, so Git tracks the empty folders
 touch experiments/.gitkeep data/.gitkeep protocols/.gitkeep \
       references/.gitkeep summaries/.gitkeep
 
