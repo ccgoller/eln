@@ -1,6 +1,6 @@
 # 3. Recording Experiments
 
-Every time you work in the lab or analyze data, you should create or update an experiment entry. This section explains what to record and how to do it.
+**Every time** you work in the lab or analyze data, you should create or update an experiment entry. This section explains what to record and how to do it.
 
 ← **[Back to Student Guidelines](README.md)**
 
