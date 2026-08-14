@@ -148,6 +148,17 @@ Keep in mind that only staged changes can be committed and pushed to GitHub; all
 7. VS Code will prompt you to write a description of the changes you made. This helps you keep track of the changes you've made in the notebook. Feel free to add a small description and then click Commit:
 <img width="482" height="872" alt="1st commit step 7" src="https://github.com/user-attachments/assets/2e099f3e-fdbd-4c20-b12e-efb67a78bc0b" />
 
+## Step 11 — Keeping your notebook updated 
+
+You've learned how to make changes in your notebook and how to commit and push them to GitHub. The notebook you have in GitHub is a linked copy of the Main repository. Instructors and TAs will make changes in the Main repository; you need to keep your notebook updated by following the next few steps: 
+
+1. Open your Notebook Repository in GitHub. You'll find an option to "Sync Fork" under the "Code" option; click on it and accept the changes. 
+<img width="1206" height="710" alt="Screenshot 2026-08-14 at 3 22 08 PM" src="https://github.com/user-attachments/assets/27aa58cb-a167-4dfc-8614-42def7378c6f" />
+
+This syncs your Notebook repository with the Main Repository. 
+
+2. To update your notebook in VS Code, open VS Code 
+
 ---
 
 ## Next Step
