@@ -98,7 +98,7 @@ Read the [FAQ](FAQ.md).
 
 We strive to create a repository that follows accessible documentation practices:
 
-- Use clear heading hierarchy (one `#` title, then `##`, then `###`).
+- Use clear, logical heading hierarchy (one `#` title, then `##`, then `###`).
 - Use descriptive link text (avoid "click here").
 - Ensure all images include meaningful alt text.
 - Do not rely on color alone to communicate meaning.
@@ -121,7 +121,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
 
 ## ℹ️ About this Project
 
-This project was part of the **[OCTOPUS Project: Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education](https://qubeshub.org/community/groups/octopus).**
+This ELN project was part of the **[OCTOPUS Project: Open Collaboration for Transformative Open Pedagogy to support Undergraduate Open Science Education](https://qubeshub.org/community/groups/octopus).** We also received support for graduate students from the [NC State University Libraries Alt-Textbook](https://www.lib.ncsu.edu/do/open-education/alt-textbook) program and appreciate their continued support and commitment to open and accessibility.
 
 We have received support from the Open Research Community Accelerator (ORCA) to support the adoption of open science through promoting collaborations effecting systems-level change. The project is a collaborative effort involving the RIOS Institute for a racially-just, inclusive, and open STEM education and the BioQUEST Curriculum Consortium, an education non-profit focused on supporting undergraduate STEM faculty as they engage in education reform.
 
