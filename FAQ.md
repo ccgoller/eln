@@ -1,6 +1,6 @@
 # ❓ Frequently Asked Questions
 
-Answers to common questions and troubleshooting tips for students and instructors using the GitHub-based Electronic Lab Notebook.
+Answers to common questions and troubleshooting tips for students and instructors using the GitHub-based Electronic Lab Notebook (ELN).
 
 ---
 
