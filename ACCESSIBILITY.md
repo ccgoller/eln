@@ -14,7 +14,7 @@ This document defines the accessibility expectations for all documentation and t
 - Use descriptive link text that makes sense out of context.
   - Good: “Read the Instructor Setup Guide”
   - Avoid: “Click here”
-- Please do not underline text that is not a link.
+  - Please do not underline text that is not a link.
 
 ## 🏞️ Images and Diagrams
 
