@@ -1,6 +1,6 @@
 # 📓 Electronic Lab Notebooks (ELNs) in the Lab
 
-> A practical, accessible guide for using GitHub as an Electronic Lab Notebook (ELN) in undergraduate courses and research labs created by instructors, teaching assistants, and students.
+> A practical, accessible guide for using GitHub as an **Electronic Lab Notebook (ELN)** in undergraduate courses and research labs created by instructors, teaching assistants, and students.
 
 Carlos C. Goller | Teaching Professor, Department of Biological Sciences at NC State University, Raleigh, NC 
 
@@ -42,13 +42,13 @@ Users will be able to...
 
 ## 🎓 Student Pathway
 
-This guide provides support for users who start without a GitHub account. The steps will help you create an account, join an organization (if needed), clone a notebook, and begin editing entries.
+This guide provides support for users who start without a GitHub account. The steps will help you create an account, join an organization and team (if needed), clone a notebook, and begin editing entries.
 
 Begin with: **[Student Guidelines](student-guidelines/README.md)**
 
 | # | Guide | Description |
 |---|-------|-------------|
-| 1 | [Getting Started with GitHub](student-guidelines/01-getting-started.md) | Create an account, join the organization, and clone your notebook |
+| 1 | [Getting Started with GitHub](student-guidelines/01-getting-started.md) | Create an account, join the organization and team, and clone your notebook |
 | 2 | [Structuring Your Lab Notebook](student-guidelines/02-notebook-structure.md) | Folder layout, naming conventions, and organization |
 | 3 | [Recording Experiments](student-guidelines/03-recording-experiments.md) | How to write entries, commit changes, and add data files |
 | 4 | [Best Practices](student-guidelines/04-best-practices.md) | Tips for keeping a thorough, reproducible record |
@@ -68,7 +68,7 @@ Begin with: **[Instructor Setup Guide](instructor-setup/README.md)**
 
 ## 📄 Templates
 
-We share some of the templates we have used for courses at North Carolina State University. We continue to edit and improve the templates with each course offering and helpful user feedback. We encourage you to share suggestions and templates. 
+We share some of the templates we have used for courses at North Carolina State University. We continue to edit and improve the templates with each course offering and user feedback. We encourage you to share suggestions and templates. 
 
 | Template | Purpose |
 |----------|---------|
@@ -84,7 +84,7 @@ Common questions and troubleshooting tips are collected in the **[FAQ](FAQ.md)**
 
 | Topic | Examples |
 |-------|---------|
-| GitHub account setup | Creating an account, 2FA, organization invitations |
+| GitHub account setup | Creating an account, 2FA, organization & team invitations |
 | Authentication errors | Password rejected, SSH keys, Personal Access Tokens |
 | Committing and pushing | Non-fast-forward errors, wrong branch, large files |
 | File size and binary data | Size limits, Git LFS, images in Markdown |
@@ -127,8 +127,8 @@ We have received support from the Open Research Community Accelerator (ORCA) to 
 
 ---
 
-## 🛈 License and Citation
+## ⓘ License and Citation
 
 - Repository license: [MIT License](LICENSE)
 
-> Carlos C. Goller; Gundewar, S.; Padilla, C. L. (2026). Promoting Open Science & Open Education through Accessible and Electronic Lab Notebooks. OCTOPUS - Open Science and Open Pedagogy Project, (Version 3.0). QUBES Educational Resources. doi:10.25334/Z6TY-AA95
+> Goller, C.; Gundewar, S.; Padilla, C. L. (2026). Promoting Open Science & Open Education through Accessible and Electronic Lab Notebooks. OCTOPUS - Open Science and Open Pedagogy Project, (Version 3.0). QUBES Educational Resources. doi:10.25334/Z6TY-AA95
