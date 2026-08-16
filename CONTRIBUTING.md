@@ -1,6 +1,6 @@
 # 🌱 Contributing to GitHub ELN
 
-Thank you for helping improve this repository.
+Thank **you** for helping improve this repository!
 
 ## Ways to contribute
 
@@ -16,7 +16,7 @@ Thank you for helping improve this repository.
 3. Make focused edits.
 4. Open a pull request with a clear summary.
 
-## Pull request expectations
+## Pull Request Expectations
 
 Please include:
 
@@ -24,7 +24,7 @@ Please include:
 - Why it changed.
 - Any follow-up work needed.
 
-## Accessibility requirements (required)
+## Accessibility Requirements
 
 All contributions must follow [ACCESSIBILITY.md](ACCESSIBILITY.md).
 
@@ -35,13 +35,13 @@ Minimum checks:
 - Alt text for images.
 - No color-only instructions.
 
-## Style guidance
+## Style Guidance
 
 - Prefer plain language.
 - Keep sections short and task-oriented.
 - Use consistent terminology (`student`, `instructor`, `notebook entry`).
 
-## Reporting problems
+## Reporting Problems
 
 If you find an issue, open a GitHub Issue with:
 
