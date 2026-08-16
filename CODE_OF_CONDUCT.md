@@ -1,12 +1,12 @@
 # 🗣️ Code of Conduct
 
-## Our pledge
+## Our Pledge
 
 We, as contributors and maintainers, pledge to make participation in this project a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-## Our standards
+## Our Standards
 
 Examples of behavior that contributes to a positive environment for this community include:
 
@@ -24,7 +24,7 @@ Examples of unacceptable behavior include:
 - Publishing others’ private information, such as a physical or email address, without their explicit permission.
 - Other conduct which could reasonably be considered inappropriate in a professional setting.
 
-## Enforcement responsibilities
+## Enforcement Responsibilities
 
 Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
@@ -44,7 +44,7 @@ If needed, open an issue requesting a confidential follow-up without including s
 
 All reports will be reviewed and investigated promptly and fairly.
 
-## Enforcement guidelines
+## Enforcement Guidelines
 
 Maintainers will follow these Community Impact Guidelines in determining consequences for any action they deem in violation of this Code of Conduct:
 
@@ -58,15 +58,15 @@ Maintainers will follow these Community Impact Guidelines in determining consequ
 
 **Community impact:** A violation through a single incident or series of actions.
 
-**Consequence:** A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period. This includes avoiding interactions in community spaces as well as external channels.
+**Consequence:** A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period. This includes avoiding interactions in community spaces and on external channels.
 
-### 3. Temporary ban
+### 3. Temporary Ban
 
 **Community impact:** A serious violation of community standards, including sustained inappropriate behavior.
 
 **Consequence:** A temporary ban from any sort of interaction or public communication with the community for a specified period. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period.
 
-### 4. Permanent ban
+### 4. Permanent Ban
 
 **Community impact:** Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
 
