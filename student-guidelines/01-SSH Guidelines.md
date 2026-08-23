@@ -47,10 +47,14 @@ cat ~/.ssh/id_ed25519.pub
 1. In GitHub, navigate to your forked repository; click the green " Code " box and select the SSH option.
 <img width="427" height="379" alt="Screenshot 2026-08-22 at 11 20 52 PM" src="https://github.com/user-attachments/assets/ff96588d-c41a-4c14-9a5d-4fbdbc960e73" />
 
+Copy the SSH link. 
 
+2. In your computer's terminal, type the following and replace it with the SSH link.  
 
+```bash
+git clone git@github.com:ncstate-cos/yournotebookname.git
+```
 
-
-
-
+3. Your terminal will then clone your lab notebook onto your computer. Once the terminal has finished running the command, you'll be able to find your lab notebook on your computer.
+4. Go to your computer folders and click on the search icon. Type the name of your lab notebook; it should be on your computer now! You now have access to all lab templates.  
 
