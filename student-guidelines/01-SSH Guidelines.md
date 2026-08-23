@@ -25,10 +25,24 @@ cat ~/.ssh/id_ed25519.pub
 
 6. Once you run this command, the terminal will give you an SSH key. **Copy all the output**; this is your key and you will need it for the next step.
 
+---
+
 ## Step 2: Getting your key into GitHub
 
 1. Open GitHub, click on your profile, and navigate to settings:
 <img width="347" height="724" alt="Screenshot 2026-08-22 at 11 10 48 PM" src="https://github.com/user-attachments/assets/a327f91d-7a20-4817-895e-688f5859fd38" />
 
+2. Once in Settings, navigate to the "SSH and GPG keys"
+<img width="337" height="757" alt="Screenshot 2026-08-22 at 11 13 31 PM" src="https://github.com/user-attachments/assets/3f5b1eb1-515d-4fa0-937a-2932cab2b128" />
 
+3. On SSH keys, click the green box to add a new SSH key:
+<img width="958" height="99" alt="Screenshot 2026-08-22 at 11 13 54 PM" src="https://github.com/user-attachments/assets/cd729946-ef4f-4402-acc7-1f35dae16e51" />
+
+4. You'll then be asked to title your key; you can give it any name you want. On the key box, paste the key you copied from Step 1. DO NOT change the key type.
+
+---
+
+## Step 3: Cloning your Notebook with an SSH key. 
+
+1. 
 
