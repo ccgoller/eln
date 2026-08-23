@@ -17,4 +17,14 @@ This will create your SSH key. Is important you don't press any keys until promp
 
 3. The terminal will prompt you for a location for the SSH key (the default location will work); press Enter.
 4. The terminal will ask for a password and a password confirmation; press Enter for both.
+5. If no error messages come through, it means your key was created! To retrieve your key, type the following command in the terminal:
 
+```bash
+cat ~/.ssh/id_ed25519.pub
+```
+
+6. Once you run this command, the terminal will give you an SSH key. **Copy all the output**; this is your key and you will need it for the next step.
+
+## Step 2: Getting your key into GitHub
+
+1. Open GitHub and click your profile: 
