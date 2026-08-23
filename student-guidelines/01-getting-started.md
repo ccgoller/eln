@@ -121,6 +121,8 @@ git clone https://github.com/your-lab/notebook-your-name.git
 ```
 Replace the link with the HTTPS URL you copied before. 
 
+4. Once your lab notebook has been cloned, navigate to your computer folders and click the search icon, type your lab notebook name, and it will now show on your computer as a folder. You can now navigate your lab notebook on your computer. 
+
 Your notebook is now on your local computer. You can push any changes you make here to GitHub. **If this prompts you to log in with your GitHub NCSU account and is letting you know about a problem with the enterprise, go to the SSH guidelines (found under student-guidelines).**
 
 ---
