@@ -44,5 +44,13 @@ cat ~/.ssh/id_ed25519.pub
 
 ## Step 3: Cloning your Notebook with an SSH key. 
 
-1. 
+1. In GitHub, navigate to your forked repository; click the green " Code " box and select the SSH option.
+<img width="427" height="379" alt="Screenshot 2026-08-22 at 11 20 52 PM" src="https://github.com/user-attachments/assets/ff96588d-c41a-4c14-9a5d-4fbdbc960e73" />
+
+
+
+
+
+
+
 
