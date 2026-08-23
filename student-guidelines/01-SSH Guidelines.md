@@ -27,4 +27,8 @@ cat ~/.ssh/id_ed25519.pub
 
 ## Step 2: Getting your key into GitHub
 
-1. Open GitHub and click your profile: 
+1. Open GitHub, click on your profile, and navigate to settings:
+<img width="347" height="724" alt="Screenshot 2026-08-22 at 11 10 48 PM" src="https://github.com/user-attachments/assets/a327f91d-7a20-4817-895e-688f5859fd38" />
+
+
+
