@@ -58,7 +58,22 @@ You have forked the main repository, which means you have a “copy” of the ma
 
 ---
 
-## Step 6 — Install Git
+## Step 6 — Install Brew
+
+For macOS and Linux users only. Install the Homebrew app from: https://brew.sh/
+
+1. Follow the steps on the webpage; it will ask you to open the terminal and copy and paste the code in the box.
+<img width="1078" height="535" alt="Screenshot 2026-08-22 at 10 40 55 PM" src="https://github.com/user-attachments/assets/4ab67b2f-10df-4fd6-b656-45688777dffd" />
+
+2. Your terminal might prompt you to enter your password; use the password you use to log into your computer.
+3. Once Homebrew has been installed, close the terminal and open it again. Check for Homebrew with the following line of code in your terminal: 
+
+```bash
+brew 
+```
+4. Your terminal will let you know if Homebrew is present or not; if it is not found, make sure you have refreshed your terminal and make sure you've followed the directions in the Homebrew link. 
+
+## Step 7 — Install Git
 
 You need Git on your computer to push changes from your local machine to GitHub. Open the terminal app on your computer and run the following lines of code depending on your operating system (macOS, Windows, or Linux)  
 
@@ -83,7 +98,7 @@ git --version
 
 ---
 
-## Step 7 — Configure Git
+## Step 8 — Configure Git
 
 Tell Git your name and email (use the same email as your GitHub account):
 
@@ -94,7 +109,7 @@ git config --global user.email "you@example.com"
 
 ---
 
-## Step 8 — Clone Your Notebook Repository
+## Step 9 — Clone Your Notebook Repository
 
 1. Navigate to your notebook repository on GitHub.
 2. Click the green **Code** button and copy the HTTPS URL.
@@ -110,7 +125,7 @@ Your notebook is now on your local computer. Any changes you make here can be pu
 
 ---
 
-## Step 9 - Getting VS Code 
+## Step 10 - Getting VS Code 
 
 VS Code is an app that allows you to sync your GitHub repository (notebook) and be able to make changes to your notebook from your computer. 
 1. Download VS Code from: https://code.visualstudio.com/download?_exp_download=fb315fc982 
@@ -120,7 +135,7 @@ VS Code is an app that allows you to sync your GitHub repository (notebook) and 
 <img width="1058" height="948" alt="VS Code step 3" src="https://github.com/user-attachments/assets/54b3bd92-e514-4470-bbe3-9400fdc88c2f" />
 4. Once your folder has been selected, you can navigate through your lab notebook and make changes. Click on the “Notebooks” tab and navigate to Lab 1.
 
-## Step 10 — Make Your First Commit
+## Step 11 — Make Your First Commit
 
 You have now opened Lab 1 from your Lab Notebook in VS Code and are ready to make changes. 
 1. You can add anything in your notebook. Try to type something in the notebook. VS Code will show you the changes you are making to your notebook:
@@ -148,7 +163,7 @@ Keep in mind that only staged changes can be committed and pushed to GitHub; all
 7. VS Code will prompt you to write a description of the changes you made. This helps you keep track of the changes you've made in the notebook. Feel free to add a small description and then click Commit:
 <img width="482" height="872" alt="1st commit step 7" src="https://github.com/user-attachments/assets/2e099f3e-fdbd-4c20-b12e-efb67a78bc0b" />
 
-## Step 11 — Keeping your notebook updated 
+## Step 12 — Keeping your notebook updated 
 
 You've learned how to make changes in your notebook and how to commit and push them to GitHub. The notebook you have in GitHub is a linked copy of the Main repository. Instructors and TAs will make changes in the Main repository; you need to keep your notebook updated by following the next few steps: 
 
