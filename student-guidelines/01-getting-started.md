@@ -121,7 +121,7 @@ git clone https://github.com/your-lab/notebook-your-name.git
 ```
 Replace the link with the HTTPS URL you copied before. 
 
-Your notebook is now on your local computer. Any changes you make here can be pushed to GitHub.
+Your notebook is now on your local computer. Any changes you make here can be pushed to GitHub. **If this prompts you to log in with your GitHub NCSU account and is letting you know about a problem with the enterprise, go to the SSH guidelines (found under these guidelines)**
 
 ---
 
