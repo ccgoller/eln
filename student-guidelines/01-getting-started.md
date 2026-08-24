@@ -137,6 +137,8 @@ VS Code is an app that allows you to sync your GitHub repository (notebook) and 
 <img width="1058" height="948" alt="VS Code step 3" src="https://github.com/user-attachments/assets/54b3bd92-e514-4470-bbe3-9400fdc88c2f" />
 4. Once your folder has been selected, you can navigate through your lab notebook and make changes. Click on the “Notebooks” tab and navigate to Lab 1.
 
+---
+
 ## Step 11 — Make Your First Commit
 
 You have now opened Lab 1 from your Lab Notebook in VS Code and are ready to make changes. 
@@ -165,6 +167,8 @@ Keep in mind that only staged changes can be committed and pushed to GitHub; all
 7. VS Code will prompt you to write a description of the changes you made. This helps you keep track of the changes you've made in the notebook. Feel free to add a small description and then click Commit:
 <img width="482" height="872" alt="1st commit step 7" src="https://github.com/user-attachments/assets/2e099f3e-fdbd-4c20-b12e-efb67a78bc0b" />
 
+---
+
 ## Step 12 — Keeping your notebook updated 
 
 You've learned how to make changes in your notebook and how to commit and push them to GitHub. The notebook you have in GitHub is a linked copy of the Main repository. Instructors and TAs will make changes in the Main repository; you need to keep your notebook updated by following the next few steps: 
@@ -179,6 +183,8 @@ This syncs your Notebook repository with the Main Repository.
 
 
 ---
+
+## Step 13 - Submitting your lab notebook 
 
 ## Next Step
 
