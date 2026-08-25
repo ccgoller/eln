@@ -186,7 +186,11 @@ This syncs your Notebook repository with the Main Repository.
 
 ## Step 13 - Submitting your lab notebook 
 
-1. 
+1. Navigate to your forked repository (your lab notebook repository under your name).
+2. On the upper part of the page, you'll find a menu bar; navigate to Settings
+3. Navigate to "Collaborators"
+4. There will be an option to "Add People"; click on that option and add Dr. Carlos Goller and Camila Loyola (TA) as viewers of your repository.
+5. Once your instructors have been added, you can change their viewer status to "editor" access. 
 
 ## Next Step
 
