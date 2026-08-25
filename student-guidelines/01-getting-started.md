@@ -186,6 +186,8 @@ This syncs your Notebook repository with the Main Repository.
 
 ## Step 13 - Submitting your lab notebook 
 
+1. 
+
 ## Next Step
 
 → [Structuring Your Lab Notebook](02-notebook-structure.md)
