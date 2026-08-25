@@ -184,7 +184,7 @@ This syncs your Notebook repository with the Main Repository.
 
 ---
 
-## Step 13 - Submitting your lab notebook 
+## Step 13 - Sharing your ELN with your instructors and submitting 
 
 1. Navigate to your forked repository (your lab notebook repository under your name).
 2. On the upper part of the page, you'll find a menu bar; navigate to Settings
