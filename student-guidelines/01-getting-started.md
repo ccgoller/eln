@@ -190,7 +190,8 @@ This syncs your Notebook repository with the Main Repository.
 2. On the upper part of the page, you'll find a menu bar; navigate to Settings
 3. Navigate to "Collaborators"
 4. There will be an option to "Add People"; click on that option and add Dr. Carlos Goller and Camila Loyola (TA) as viewers of your repository.
-5. Once your instructors have been added, you can change their viewer status to "editor" access. 
+5. Once your instructors have been added, you can change their viewer status to "editor" access.
+6. On Moodle, submit the link for the corresponding lab. For instance, for Lab-1 submission, open the Lab-1 ELN on GitHub and copy the web link. Submit the link through Moodle for grading. 
 
 ## Next Step
 
